@@ -1,0 +1,17 @@
+{
+  "name": "Shadee.org",
+  "displayName": "Shadee.org",
+  "expo": {
+    "name": "Shadee.org",
+    "android": {
+      "package": "com.Shadee.org.Shadee.org",
+      "versionCode": 1.0
+    },
+    "slug": "PSO",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
